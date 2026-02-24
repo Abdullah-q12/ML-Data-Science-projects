@@ -14,12 +14,12 @@
 
 | Task | Project Title | Description | Folder Link |
 |------|---------------|-------------|-------------|
-| Task 1 | Data Analysis & Visualization | Exploratory data analysis & visualization on datasets like Titanic/Iris | [Folder](./Task1-Data-Analysis-Visualization) |
+| Task 1 | Data Analysis & Visualization | Exploratory data analysis & visualization on datasets like Titanic/Iris | [Folder](./Task1-EDA) |
 | Task 2 | Titanic Preprocessing & Feature Engineering | Preprocessing and feature engineering for Titanic dataset | [Folder](./Task2-Titanic-Preprocessing) |
 | Task 3 | Linear Regression Model | Train & evaluate regression models with RMSE, MAE, R² metrics | [Folder](./Task3-Linear-Regression) |
 | Task 4 | Logistic Regression | Logistic Regression model for Titanic survival prediction | [Folder](./Task4-Logistic-Regression) |
-| Task 5 | Hyperparameter Optimization | Tune model hyperparameters for Titanic survival classification | [Folder](./Task5-Hyperparameter-Optimization) |
-| Task 7 | Feature Optimization with RFE | Apply Recursive Feature Elimination for optimal feature selection | [Folder](./Task7-Feature-Optimization-RFE) |
+| Task 5 | Hyperparameter Optimization | Tune model hyperparameters for Titanic survival classification | [Folder](./Task5-Titanic-Hyperparameter-Optimization) |
+| Task 7 | Feature Optimization with RFE | Apply Recursive Feature Elimination for optimal feature selection | [Folder](./Task7-Feature-Optimization-RFE-Titanic) |
 | Task 8 | Simple Neural Network (MNIST) | Compare ReLU vs Sigmoid feed-forward networks on MNIST digits | [Folder](./Task8-Simple-Neural-Network-MNIST) |
 | Task 9 | CNN CIFAR-10 | Convolutional Neural Network for CIFAR-10 classification with augmentation & feature maps | [Folder](./Task9-CNN-CIFAR10) |
 
@@ -56,6 +56,7 @@
 ---
 
 ## 🗂 Repository Structure
+
 ML-Data-Science-Projects/
 ├── Task1-Data-Analysis-Visualization/
 ├── Task2-Titanic-Preprocessing/
